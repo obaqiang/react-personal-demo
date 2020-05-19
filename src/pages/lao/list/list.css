@@ -1,0 +1,22 @@
+
+.list{
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    border-bottom: 3px solid #dddddd;
+}
+.list_img{
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+}
+.list_pa{
+    width: 90%;
+    margin: auto;
+    line-height: 40px;
+}
+.list_pb{
+    width: 90%;
+    margin: auto;
+    line-height: 30px;
+}
